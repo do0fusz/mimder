@@ -7,3 +7,10 @@ working on some portfolio apps for my RoR skills
 * rails 4 / ruby 2.2 
 
 
+* jazz_fingers && pry for debugging 
+* sass for awesome css 
+* bootstrap socials (css)
+* autoprefixer for rails 
+* fontawesome makes icons amazing 
+
+
